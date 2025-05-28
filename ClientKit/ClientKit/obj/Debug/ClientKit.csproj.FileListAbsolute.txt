@@ -1,0 +1,14 @@
+D:\Exp\ClientServer\ClientKit\ClientKit\bin\Debug\ClientKit.exe.config
+D:\Exp\ClientServer\ClientKit\ClientKit\bin\Debug\ClientKit.exe
+D:\Exp\ClientServer\ClientKit\ClientKit\bin\Debug\ClientKit.pdb
+D:\Exp\ClientServer\ClientKit\ClientKit\obj\Debug\ClientKit.csprojAssemblyReference.cache
+D:\Exp\ClientServer\ClientKit\ClientKit\obj\Debug\ClientKit.csproj.CoreCompileInputs.cache
+D:\Exp\ClientServer\ClientKit\ClientKit\obj\Debug\ClientKit.exe
+D:\Exp\ClientServer\ClientKit\ClientKit\obj\Debug\ClientKit.pdb
+D:\WORK\Per\ClientServer\ClientKit\ClientKit\bin\Debug\ClientKit.exe.config
+D:\WORK\Per\ClientServer\ClientKit\ClientKit\bin\Debug\ClientKit.exe
+D:\WORK\Per\ClientServer\ClientKit\ClientKit\bin\Debug\ClientKit.pdb
+D:\WORK\Per\ClientServer\ClientKit\ClientKit\obj\Debug\ClientKit.csproj.AssemblyReference.cache
+D:\WORK\Per\ClientServer\ClientKit\ClientKit\obj\Debug\ClientKit.csproj.CoreCompileInputs.cache
+D:\WORK\Per\ClientServer\ClientKit\ClientKit\obj\Debug\ClientKit.exe
+D:\WORK\Per\ClientServer\ClientKit\ClientKit\obj\Debug\ClientKit.pdb

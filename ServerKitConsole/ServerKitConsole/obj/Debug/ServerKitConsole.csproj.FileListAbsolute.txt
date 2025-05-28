@@ -1,0 +1,13 @@
+D:\Exp\ClientServer\ServerKitConsole\ServerKitConsole\bin\Debug\ServerKitConsole.exe.config
+D:\Exp\ClientServer\ServerKitConsole\ServerKitConsole\bin\Debug\ServerKitConsole.exe
+D:\Exp\ClientServer\ServerKitConsole\ServerKitConsole\bin\Debug\ServerKitConsole.pdb
+D:\Exp\ClientServer\ServerKitConsole\ServerKitConsole\obj\Debug\ServerKitConsole.csproj.CoreCompileInputs.cache
+D:\Exp\ClientServer\ServerKitConsole\ServerKitConsole\obj\Debug\ServerKitConsole.exe
+D:\Exp\ClientServer\ServerKitConsole\ServerKitConsole\obj\Debug\ServerKitConsole.pdb
+D:\WORK\Per\ClientServer\ServerKitConsole\ServerKitConsole\bin\Debug\ServerKitConsole.exe.config
+D:\WORK\Per\ClientServer\ServerKitConsole\ServerKitConsole\bin\Debug\ServerKitConsole.exe
+D:\WORK\Per\ClientServer\ServerKitConsole\ServerKitConsole\bin\Debug\ServerKitConsole.pdb
+D:\WORK\Per\ClientServer\ServerKitConsole\ServerKitConsole\obj\Debug\ServerKitConsole.csproj.AssemblyReference.cache
+D:\WORK\Per\ClientServer\ServerKitConsole\ServerKitConsole\obj\Debug\ServerKitConsole.csproj.CoreCompileInputs.cache
+D:\WORK\Per\ClientServer\ServerKitConsole\ServerKitConsole\obj\Debug\ServerKitConsole.exe
+D:\WORK\Per\ClientServer\ServerKitConsole\ServerKitConsole\obj\Debug\ServerKitConsole.pdb

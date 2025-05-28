@@ -1,0 +1,2 @@
+ServerPort=8001
+TSPath=D:\Myfile.txt

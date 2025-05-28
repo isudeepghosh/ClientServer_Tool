@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORK\\Per\\ClientServer\\LicenseGenMailStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{677FE741-FD36-46E8-A286-803DE176B11E}|LicenseGenMailStore\\LicenseGenMailStore.csproj|d:\\work\\per\\clientserver\\licensegenmailstore\\licensegenmailstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677FE741-FD36-46E8-A286-803DE176B11E}|LicenseGenMailStore\\LicenseGenMailStore.csproj|solutionrelative:licensegenmailstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677FE741-FD36-46E8-A286-803DE176B11E}|LicenseGenMailStore\\LicenseGenMailStore.csproj|D:\\WORK\\Per\\ClientServer\\LicenseGenMailStore\\licensegenmailstore\\mailthekey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677FE741-FD36-46E8-A286-803DE176B11E}|LicenseGenMailStore\\LicenseGenMailStore.csproj|solutionrelative:licensegenmailstore\\mailthekey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677FE741-FD36-46E8-A286-803DE176B11E}|LicenseGenMailStore\\LicenseGenMailStore.csproj|D:\\WORK\\Per\\ClientServer\\LicenseGenMailStore\\licensegenmailstore\\authoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677FE741-FD36-46E8-A286-803DE176B11E}|LicenseGenMailStore\\LicenseGenMailStore.csproj|solutionrelative:licensegenmailstore\\authoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677FE741-FD36-46E8-A286-803DE176B11E}|LicenseGenMailStore\\LicenseGenMailStore.csproj|D:\\WORK\\Per\\ClientServer\\LicenseGenMailStore\\licensegenmailstore\\keygenarator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677FE741-FD36-46E8-A286-803DE176B11E}|LicenseGenMailStore\\LicenseGenMailStore.csproj|solutionrelative:licensegenmailstore\\keygenarator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677FE741-FD36-46E8-A286-803DE176B11E}|LicenseGenMailStore\\LicenseGenMailStore.csproj|D:\\WORK\\Per\\ClientServer\\LicenseGenMailStore\\licensegenmailstore\\generatekeyfirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677FE741-FD36-46E8-A286-803DE176B11E}|LicenseGenMailStore\\LicenseGenMailStore.csproj|solutionrelative:licensegenmailstore\\generatekeyfirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORK\\Per\\ClientServer\\LicenseGenMailStore\\LicenseGenMailStore\\Program.cs",
+              "RelativeDocumentMoniker": "LicenseGenMailStore\\Program.cs",
+              "ToolTip": "D:\\WORK\\Per\\ClientServer\\LicenseGenMailStore\\LicenseGenMailStore\\Program.cs",
+              "RelativeToolTip": "LicenseGenMailStore\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwFMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:33:32.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenerateKeyFirstTime.cs",
+              "DocumentMoniker": "D:\\WORK\\Per\\ClientServer\\LicenseGenMailStore\\LicenseGenMailStore\\GenerateKeyFirstTime.cs",
+              "RelativeDocumentMoniker": "LicenseGenMailStore\\GenerateKeyFirstTime.cs",
+              "ToolTip": "D:\\WORK\\Per\\ClientServer\\LicenseGenMailStore\\LicenseGenMailStore\\GenerateKeyFirstTime.cs",
+              "RelativeToolTip": "LicenseGenMailStore\\GenerateKeyFirstTime.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:33:00.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthoClass.cs",
+              "DocumentMoniker": "D:\\WORK\\Per\\ClientServer\\LicenseGenMailStore\\LicenseGenMailStore\\AuthoClass.cs",
+              "RelativeDocumentMoniker": "LicenseGenMailStore\\AuthoClass.cs",
+              "ToolTip": "D:\\WORK\\Per\\ClientServer\\LicenseGenMailStore\\LicenseGenMailStore\\AuthoClass.cs",
+              "RelativeToolTip": "LicenseGenMailStore\\AuthoClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:32:50.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeyGenarator.cs",
+              "DocumentMoniker": "D:\\WORK\\Per\\ClientServer\\LicenseGenMailStore\\LicenseGenMailStore\\KeyGenarator.cs",
+              "RelativeDocumentMoniker": "LicenseGenMailStore\\KeyGenarator.cs",
+              "ToolTip": "D:\\WORK\\Per\\ClientServer\\LicenseGenMailStore\\LicenseGenMailStore\\KeyGenarator.cs",
+              "RelativeToolTip": "LicenseGenMailStore\\KeyGenarator.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:27:46.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailTheKey.cs",
+              "DocumentMoniker": "D:\\WORK\\Per\\ClientServer\\LicenseGenMailStore\\LicenseGenMailStore\\MailTheKey.cs",
+              "RelativeDocumentMoniker": "LicenseGenMailStore\\MailTheKey.cs",
+              "ToolTip": "D:\\WORK\\Per\\ClientServer\\LicenseGenMailStore\\LicenseGenMailStore\\MailTheKey.cs",
+              "RelativeToolTip": "LicenseGenMailStore\\MailTheKey.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:31:03.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

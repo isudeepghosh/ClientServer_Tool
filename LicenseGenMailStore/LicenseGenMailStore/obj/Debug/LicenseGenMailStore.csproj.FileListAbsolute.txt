@@ -1,0 +1,17 @@
+D:\Exp\ClientServer\LicenseGenMailStore\LicenseGenMailStore\bin\Debug\LicenseGenMailStore.exe.config
+D:\Exp\ClientServer\LicenseGenMailStore\LicenseGenMailStore\bin\Debug\LicenseGenMailStore.exe
+D:\Exp\ClientServer\LicenseGenMailStore\LicenseGenMailStore\bin\Debug\LicenseGenMailStore.pdb
+D:\Exp\ClientServer\LicenseGenMailStore\LicenseGenMailStore\obj\Debug\LicenseGenMailStore.csproj.CoreCompileInputs.cache
+D:\Exp\ClientServer\LicenseGenMailStore\LicenseGenMailStore\obj\Debug\LicenseGenMailStore.exe
+D:\Exp\ClientServer\LicenseGenMailStore\LicenseGenMailStore\obj\Debug\LicenseGenMailStore.pdb
+D:\Exp\ClientServer\LicenseGenMailStore\LicenseGenMailStore\bin\Debug\Otp.NET.dll
+D:\Exp\ClientServer\LicenseGenMailStore\LicenseGenMailStore\obj\Debug\LicenseGenMailStore.csproj.CopyComplete
+D:\WORK\Per\ClientServer\LicenseGenMailStore\LicenseGenMailStore\bin\Debug\LicenseGenMailStore.exe.config
+D:\WORK\Per\ClientServer\LicenseGenMailStore\LicenseGenMailStore\bin\Debug\LicenseGenMailStore.exe
+D:\WORK\Per\ClientServer\LicenseGenMailStore\LicenseGenMailStore\bin\Debug\LicenseGenMailStore.pdb
+D:\WORK\Per\ClientServer\LicenseGenMailStore\LicenseGenMailStore\bin\Debug\Otp.NET.dll
+D:\WORK\Per\ClientServer\LicenseGenMailStore\LicenseGenMailStore\obj\Debug\LicenseGenMailStore.csproj.AssemblyReference.cache
+D:\WORK\Per\ClientServer\LicenseGenMailStore\LicenseGenMailStore\obj\Debug\LicenseGenMailStore.csproj.CoreCompileInputs.cache
+D:\WORK\Per\ClientServer\LicenseGenMailStore\LicenseGenMailStore\obj\Debug\LicenseG.4128CBA8.Up2Date
+D:\WORK\Per\ClientServer\LicenseGenMailStore\LicenseGenMailStore\obj\Debug\LicenseGenMailStore.exe
+D:\WORK\Per\ClientServer\LicenseGenMailStore\LicenseGenMailStore\obj\Debug\LicenseGenMailStore.pdb
