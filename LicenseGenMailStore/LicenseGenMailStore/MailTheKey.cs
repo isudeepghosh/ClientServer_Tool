@@ -34,7 +34,7 @@ namespace LicenseGenMailStore
                 smtp.Host = "smtp.gmail.com"; //for gmail host  
                 smtp.EnableSsl = true;
                 smtp.UseDefaultCredentials = false;
-                smtp.Credentials = new NetworkCredential("codersudeepghosh@gmail.com", "Sudeep@1995");
+                smtp.Credentials = new NetworkCredential("codersudeepghosh@gmail.com", "PASSWORD");
                 smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
                 smtp.Send(message);
             }
